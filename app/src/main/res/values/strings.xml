@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AddresBk</string>
+    <string name="welcome">hello welcome to ut second aactivity</string>
+    <string name="Spinner"> Spinner</string>
+    <string-array name="TypeOFAddress">
+        <item>Family Member</item>
+        <item>Close Friend</item>
+        <item>Bussiness Associates</item>
+    </string-array>
+</resources>
